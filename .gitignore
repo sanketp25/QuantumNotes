@@ -1,0 +1,7 @@
+/temp_uploads
+/temp_vector_stores
+/__pycache__/
+.vscode/
+.env
+/services/__pycache__
+requirements.txt
