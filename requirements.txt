@@ -1,0 +1,44 @@
+# Core Dependencies
+numpy
+pandas
+tqdm
+
+# Audio/Video Processing
+faster-whisper
+ffmpeg-python
+
+# Natural Language Processing
+nltk
+sentence-transformers
+
+# Subtitle/Transcript Parsing
+pysrt
+webvtt-py
+
+# LangChain Core
+langchain
+langchain-community
+langchain-core
+langchain-text-splitters
+langchain-experimental
+
+# LangChain Integrations
+langchain-groq
+langchain-openai
+langchain-huggingface
+langchain-chroma
+
+# LangGraph
+langgraph
+
+# Vector Store
+chromadb
+
+# Document Loaders
+pypdf
+python-docx
+pymupdf
+
+# Deep Learning
+torch
+transformers
