@@ -5,3 +5,8 @@
 .env
 /services/__pycache__
 requirements.txt
+
+venv/
+.venv/
+__pycache__/
+*.pyc

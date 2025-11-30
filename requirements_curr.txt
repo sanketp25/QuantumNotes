@@ -133,7 +133,6 @@ typing-inspection==0.4.2
 typing_extensions==4.15.0
 urllib3==2.3.0
 uvicorn==0.38.0
-uvloop==0.22.1
 watchfiles==1.1.1
 websocket-client==1.9.0
 websockets==15.0.1
@@ -142,3 +141,12 @@ xxhash==3.6.0
 yarl==1.22.0
 zipp==3.23.0
 zstandard==0.25.0
+webvtt-py
+pysrt
+numpy
+pandas
+ffmpeg-python
+nltk
+faster-whisper
+langchain-groq
+pyarrow
